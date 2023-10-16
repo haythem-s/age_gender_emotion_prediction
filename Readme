@@ -1,0 +1,6 @@
+#Required Libraries Installation
+#OpenCV
+#Streamlit
+#Keras
+
+# To run the application open the cmd in the project folder then run : streamlit run app.py
